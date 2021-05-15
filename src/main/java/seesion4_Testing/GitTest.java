@@ -7,9 +7,15 @@ public class GitTest {
 		
 		GitTest test = new GitTest();
 		test.AB();
+		cd();
 		
 	}
 	
+	private static void cd() {
+		System.out.println("Hi2");
+		
+	}
+
 	public void AB () {
 		
 		System.out.println("Hello");
