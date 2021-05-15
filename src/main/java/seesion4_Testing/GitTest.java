@@ -12,7 +12,7 @@ public class GitTest {
 	}
 	
 	private static void cd() {
-		System.out.println("HI1");
+		System.out.println("Hi2");
 		
 	}
 
